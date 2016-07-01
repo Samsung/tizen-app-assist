@@ -1,0 +1,13 @@
+/Debug
+/Release
+/SA_Report
+app-assist-efl.edj
+.checkers
+.sdk_delta.info
+/.package-stamp
+/.sign
+/lib
+/crash-info
+
+
+

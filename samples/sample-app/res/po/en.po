@@ -1,0 +1,35 @@
+msgid "IDS_MAIN_TITLE"
+msgstr "with app-assist-efl"
+
+msgid "IDS_MENU_GROUP_VIEW_NAVIGATION"
+msgstr "View Navigation"
+
+msgid "IDS_MENU_NAVIFRAME"
+msgstr "Naviframe"
+
+msgid "IDS_MENU_TAB_VIEW"
+msgstr "Tab view"
+
+msgid "IDS_MENU_PAGE_SLIDE_VIEW"
+msgstr "Page slide view"
+
+msgid "IDS_MENU_TAB_PAGE_SLIDE_VIEW"
+msgstr "Tab-Page slide view"
+
+msgid "IDS_MENU_GROUP_PRACTICAL_EXAMPLES"
+msgstr "Practical Examples"
+
+msgid "IDS_TAB_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_TAB_CLOCK"
+msgstr "Clock"
+
+msgid "IDS_TAB_STOPWATCH"
+msgstr "Stopwatch"
+
+msgid "IDS_TAB_TIMER"
+msgstr "Timer"
+
+msgid "IDS_POPUP_CANCEL"
+msgstr "Cancel"

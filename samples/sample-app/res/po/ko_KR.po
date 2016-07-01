@@ -1,0 +1,35 @@
+msgid "IDS_MAIN_TITLE"
+msgstr "app-assist-efl을 사용함"
+
+msgid "IDS_MENU_GROUP_VIEW_NAVIGATION"
+msgstr "뷰 네비게이션"
+
+msgid "IDS_MENU_NAVIFRAME"
+msgstr "네비프레임"
+
+msgid "IDS_MENU_TAB_VIEW"
+msgstr "탭 뷰"
+
+msgid "IDS_MENU_PAGE_SLIDE_VIEW"
+msgstr "페이지 슬라이드 뷰"
+
+msgid "IDS_MENU_TAB_PAGE_SLIDE_VIEW"
+msgstr "탭 페이지 슬라이드 뷰"
+
+msgid "IDS_MENU_GROUP_PRACTICAL_EXAMPLES"
+msgstr "실용적 예제"
+
+msgid "IDS_TAB_ALARM"
+msgstr "알람"
+
+msgid "IDS_TAB_CLOCK"
+msgstr "시각"
+
+msgid "IDS_TAB_STOPWATCH"
+msgstr "스톱워치"
+
+msgid "IDS_TAB_TIMER"
+msgstr "타이머"
+
+msgid "IDS_POPUP_CANCEL"
+msgstr "취소"

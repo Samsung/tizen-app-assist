@@ -1,0 +1,6 @@
+
+# Add pre/post build process
+PREBUILD_DESC = 
+PREBUILD_COMMAND = 
+POSTBUILD_DESC = 
+POSTBUILD_COMMAND = 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="com.samsung.sample-widget" version="1.0.0">
+    <profile name="mobile"/>
+    <widget-application appid="com.samsung.sample-widget" exec="sample-widget" main="true" update-period="0">
+        <label>sample-widget</label>
+        <icon>sample-widget-icon.png</icon>
+        <support-size preview="sample-widget-preview.png">2x2</support-size>
+    </widget-application>
+</manifest>

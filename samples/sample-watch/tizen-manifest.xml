@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="com.samsung.sample-watch" api-version="2.3.1" version="1.0.0">
+	<profile name="wearable" />
+	<watch-application appid="com.samsung.sample-watch" exec="sample-watch" ambient-support="true">
+		<icon>sample-watch.png</icon>
+		<label>sample-watch</label>
+	</watch-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/alarm.set</privilege>
+	</privileges>
+</manifest>

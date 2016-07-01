@@ -1,0 +1,73 @@
+
+# Project Name
+APPNAME = app-assist-efl
+
+# Project Type
+type = sharedLib
+
+# Project Profile
+profile = mobile-2.4
+
+# C Sources
+USER_SRCS = src/WTimer.cpp src/WPageSlideViewController.cpp src/WMenuPopupController.cpp src/WContentViewControllerImpl.cpp src/WWidget.cpp src/WGengridItem.cpp src/WTimerImpl.cpp src/WServiceApp.cpp src/WServiceAppEventHandler.cpp src/WPopupController.cpp src/WVersion.cpp src/WSignalIdGenerator.cpp src/WNaviframeController.cpp src/WGenlistItem.cpp src/WWindowController.cpp src/WViewControllerImpl.cpp src/WContentViewController.cpp src/WApp.cpp src/WViewController.cpp src/WWidgetInstance.cpp src/WAppEventHandler.cpp src/WEvasObject.cpp src/WWidgetWindowController.cpp src/WMenuPopupControllerImpl.cpp 
+
+# EDC Sources
+USER_EDCS =  
+
+# PO Sources
+USER_POS = 
+
+# User Defines
+USER_DEFS = 
+USER_CPP_DEFS = WUSING_SDK_2_3_RESERVED TIZEN_DEBUG_ENABLE 
+
+# User Undefines
+USER_UNDEFS = 
+USER_CPP_UNDEFS = 
+
+# User Libraries
+USER_LIBS = 
+
+# User Objects
+USER_OBJS = 
+USER_OBJS_ABS = 
+
+# User Includes
+## C Compiler
+USER_INC_DIRS = 
+USER_INC_DIRS_ABS = 
+USER_INC_FILES = 
+USER_INC_FILES_ABS = 
+## C++ Compiler
+USER_CPP_INC_DIRS = inc src/inc 
+USER_CPP_INC_DIRS_ABS = 
+USER_CPP_INC_FILES = 
+USER_CPP_INC_FILES_ABS = 
+
+# User Library Path
+USER_LIB_DIRS = 
+USER_LIB_DIRS_ABS = 
+
+# EDC Resource Path
+USER_EDCS_IMAGE_DIRS = edje/images 
+USER_EDCS_IMAGE_DIRS_ABS = 
+USER_EDCS_SOUND_DIRS = edje/sounds 
+USER_EDCS_SOUND_DIRS_ABS = 
+USER_EDCS_FONT_DIRS = edje/fonts 
+USER_EDCS_FONT_DIRS_ABS = 
+
+# EDC Flags
+USER_EXT_EDC_KEYS = EDC0 
+
+USER_EXT_EDC0_EDCS = res/edje/app-assist-efl.edc 
+USER_EXT_EDC0_EDCS_IMAGE_DIRS = edje/images 
+USER_EXT_EDC0_EDCS_IMAGE_DIRS_ABS = 
+USER_EXT_EDC0_EDCS_SOUND_DIRS = edje/sounds 
+USER_EXT_EDC0_EDCS_SOUND_DIRS_ABS = 
+USER_EXT_EDC0_EDCS_FONT_DIRS = edje/fonts 
+USER_EXT_EDC0_EDCS_FONT_DIRS_ABS = 
+
+# Resource Filter
+USER_RES_INCLUDE = 
+USER_RES_EXCLUDE = 
+

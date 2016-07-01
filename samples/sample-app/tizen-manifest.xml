@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="com.samsung.sample-app" version="1.0.0">
+    <ui-application appid="com.samsung.sample-app" exec="sample-app" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>App-assist Sample</label>
+        <label xml:lang="ko-kr">App-assist 샘플</label>
+        <icon>com.samsung.sample-app.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+    </privileges>
+</manifest>
