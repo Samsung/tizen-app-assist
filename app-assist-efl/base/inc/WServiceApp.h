@@ -39,7 +39,7 @@ namespace app_assist {
 * }
 * @endcode
 */
-class WServiceApp {
+class WAPP_ASSIST_EXPORT WServiceApp {
 public:
 	/**
 	 * This is the default constructor for this class.
