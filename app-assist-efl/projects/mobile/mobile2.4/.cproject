@@ -123,6 +123,8 @@
 								</option>
 								<option id="gnu.cpp.compiler.option.include.paths.1676037739" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/base/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/mobile/inc}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/mobile/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/base/src/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/base/src}&quot;"/>
 								</option>
@@ -272,6 +274,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="base/src"/>
+						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="mobile/src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

@@ -29,10 +29,15 @@
 			<type>2</type>
 			<locationURI>PARENT-3-PROJECT_LOC/base</locationURI>
 		</link>
+		<link>
+			<name>mobile</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/mobile</locationURI>
+		</link>
 	</linkedResources>
 	<filteredResources>
 		<filter>
-			<id>1452745935771</id>
+			<id>1470796764444</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
@@ -41,7 +46,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1452745935773</id>
+			<id>1470796764450</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
