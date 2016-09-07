@@ -156,7 +156,7 @@ Evas_Object* WContentViewController::onCreateView(Evas_Object* parent, void* par
 
 	if (elm_layout_file_set(layout, edjPath.c_str(), "default-view") == EINA_TRUE) {
 		Evas_Object* rect = evas_object_rectangle_add(evas_object_evas_get(layout));
-		evas_object_color_set(rect, rand() % 256, rand() % 256, rand() % 256, 255);
+		evas_object_color_set(rect, 256, 256, 256, 255);
 		evas_object_size_hint_weight_set(rect, EVAS_HINT_EXPAND, EVAS_HINT_EXPAND);
 		evas_object_size_hint_align_set(rect, EVAS_HINT_FILL, EVAS_HINT_FILL);
 
